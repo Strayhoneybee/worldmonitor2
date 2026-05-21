@@ -1729,9 +1729,7 @@ const MARKET_SEED_TTL = 7200; // 2h — survive extended Yahoo/upstream outages
 
 // Must match src/config/markets.ts MARKET_SYMBOLS — update both when changing
 const MARKET_SYMBOLS = [
-  'AAPL', 'AMZN', 'AVGO', 'BAC', 'BRK-B', 'COST', 'GOOGL', 'HD',
-  'JNJ', 'JPM', 'LLY', 'MA', 'META', 'MSFT', 'NFLX', 'NVO', 'NVDA',
-  'ORCL', 'PG', 'TSLA', 'TSM', 'UNH', 'V', 'WMT', 'XOM',
+  'SOXL', '2644.T', '^N225',
   '^DJI', '^GSPC', '^IXIC', '^RUT',
 ];
 
